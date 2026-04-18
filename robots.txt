@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sravanakrishna-lang.github.io/sravan-for-hopkinton/sitemap.xml
